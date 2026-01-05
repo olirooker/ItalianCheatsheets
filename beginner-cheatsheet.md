@@ -101,7 +101,7 @@ What does … mean?
 **Come si dice … in italiano?**  
 How do you say … in Italian?
 
-**Come si scrive ...?**
+**Come si scrive ...?**  
 How do you write ...?
 
 ## Sharing opinions and reactions
