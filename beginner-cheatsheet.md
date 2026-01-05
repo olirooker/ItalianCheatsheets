@@ -1,24 +1,24 @@
 ## Section One
 
-**Come stai?**
+**Come stai?**  
 How are you?
 
-**Come va?**
+**Come va?**  
 How's it going?
 
-**Come va oggi?**
+**Come va oggi?**  
 How’s it going today?
 
-**Che fai di bello?**
+**Che fai di bello?**  
 What are you up to?
 
-**Bene!**
+**Bene!**  
 Good!
 
-**Così così.**
+**Così così**  
 So so.
 
-~~**Non molto bene.**~~
+~~**Non molto bene.**~~  
 ~~Not very good.~~
 
 ## Section Two
