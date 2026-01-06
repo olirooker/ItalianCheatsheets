@@ -117,3 +117,9 @@ Okay!
 
 **Perfetto!**  
 Perfect!
+
+
+## Phrases I've seen and like... (my translations)
+
+**Questo è quello che succede quando provo a fare qualcosa di produttive...**  
+This is what happens when I try to do something productive…
