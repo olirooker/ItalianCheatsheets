@@ -21,6 +21,8 @@ So so.
 ~~**Non molto bene.**~~  
 ~~Not very good.~~
 
+
+
 ## Getting to know someone
 
 **Come ti chiami?**  
@@ -34,6 +36,8 @@ Where are you from?
 
 **Abiti qui?**  
 Do you live here?
+
+
 
 ## Talking about yourself
 
@@ -54,6 +58,23 @@ I speak a little italian.
 
 **Nel tempo libero mi piace…**  
 In my free time I like to...
+
+**Ho...**  
+I have...
+
+**Vado a...**  
+I have to go...
+
+**Vorrei...**  
+I would like...
+
+**Mi piace...**  
+I like...
+
+**Devo / Posso / Voglio**  
+I must / can / want
+
+
 
 ## Keeping the conversation going
 
@@ -81,6 +102,8 @@ I don't know.
 **Forse.**  
 Maybe.
 
+
+
 ## Understanding and clarifying
 
 **Puoi ripetere, per favore?**  
@@ -104,6 +127,8 @@ How do you say … in Italian?
 **Come si scrive ...?**  
 How do you write ...?
 
+
+
 ## Sharing opinions and reactions
 
 **Mi piace molto!**  
@@ -117,6 +142,191 @@ Okay!
 
 **Perfetto!**  
 Perfect!
+
+
+
+## Other
+
+**C'è...**  
+There is...
+
+
+
+## Connectors
+
+**e**  
+and
+
+**ma**  
+but
+
+**o**  
+or
+
+**perché**  
+because/why
+
+**quindi**  
+so/therefore
+
+**anche**  
+also
+
+**poi**  
+then
+
+**però**  
+however
+
+
+
+## Question words
+
+**Chi?**  
+Who?
+
+**Che cosa / cosa?**  
+What?
+
+**Dove?**  
+Where?
+
+**Quando?**  
+When?
+
+**Come?**  
+How?
+
+**Quanto/Quanti?**  
+How much/how many?
+
+
+
+## Time words
+
+**oggi**  
+today
+
+**domani**  
+tomorrow
+
+**ieri**  
+yesterday
+
+**adesso**  
+now
+
+**presto / tardi**  
+early / late
+
+**la mattina / il pomeriggio / la sera**  
+the morning / the afternoon / the evening
+
+**sempre**  
+always
+
+**spesso**  
+often
+
+**qualche volta**  
+sometimes
+
+**mai**  
+never
+
+
+
+## Pronouns
+
+**io**  
+I
+
+**tu**  
+you (informal)
+
+**Lei**  
+you (formal)
+
+**lui / lei**  
+he / she
+
+**noi**  
+we
+
+**voi**  
+you (plural)
+
+**loro**  
+they
+
+
+
+## Regular verbs
+
+**Essere (to be)
+
+sono, sei, è, siamo, siete, sono
+
+Avere (to have)
+
+ho, hai, ha, abbiamo, avete, hanno
+
+
+
+**parlare**  
+to speak
+
+**abitare**  
+to live
+
+**studiare**  
+to study
+
+**lavorare**  
+to work
+
+**mangiare**  
+to eat
+
+**fare**  
+to do/make
+
+**andare**  
+to go
+
+**prendere**  
+to take
+
+**piacere**  
+to like
+
+**venire**  
+to come
+
+
+
+## Adjectives
+
+**grande / piccolo**  
+big / small
+
+**bello / brutto**  
+beautiful / ugly
+
+**nuovo / vecchio**  
+new / old
+
+**buono / cattivo**  
+good / bad
+
+**felice / triste**  
+happy / sad
+
+**facile / difficile**  
+easy / hard
+
+
+
 
 
 ## Phrases I've seen and like... (my translations)
