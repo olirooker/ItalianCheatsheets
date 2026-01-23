@@ -21,6 +21,8 @@ So so.
 ~~**Non molto bene.**~~  
 ~~Not very good.~~
 
+**Sto molto bene, grazie**  
+I'm very well, thank you
 
 
 ## Getting to know someone
@@ -333,3 +335,9 @@ easy / hard
 
 **Questo è quello che succede quando provo a fare qualcosa di produttive...**  
 This is what happens when I try to do something productive…
+
+**Tutto bene oggi?**  
+Is everything okay today?
+
+**Com'è il lavoro?**  
+What's work like?
