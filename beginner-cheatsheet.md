@@ -24,6 +24,9 @@ So so.
 **Sto molto bene, grazie**  
 I'm very well, thank you
 
+**Vuoi parlare di qualcosa di facile?**  
+Want to talk about something easy?
+
 
 ## Getting to know someone
 
